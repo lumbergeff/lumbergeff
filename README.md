@@ -42,7 +42,9 @@ Gosto de aprender continuamente e conectar áreas (engenharia, saúde, indústri
 ##
 Explorando: LangChain · LangGraph · LlamaIndex · Semantic Kernel · Hugging Face · Ollama · FAISS · Chroma · Qdrant · MCP
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lumbergeff/lumbergeff/main/yoda-star-wars.gif" alt="Yoda - Star Wars" width="300">
+</p>
 
 ##
 
